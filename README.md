@@ -1,5 +1,5 @@
-# Project Title: Analysis and Prediction of AMCAT Scores
-# Objective 
+# Project Title:  Unveiling Insights from Electric Vehicle Data!
+# Objective : 
 + To perform Exploratory Data Analysis (EDA) on Electric Vehicle data to identify key factors influencing vehicle performance, energy efficiency, battery usage, charging behavior, and consumer preferences.
 +  This analysis will help uncover insights that can drive innovation in EV design, optimize battery life, and improve the overall user experience.
 # Libraries Used:
@@ -38,4 +38,13 @@
 7. Environmental Impact:
    + Analyze the reduction in CO2 emissions or fuel consumption achieved through EV adoption.
    + Compare the energy consumption of EVs with traditional vehicles under similar conditions.
-     
+
+# Task : project was to create a racing bar chart : 
++ To compare the production performance of top electric vehicle manufacturers using the given electric vehicles dataset. I have used Python's bar_chart_race module for accomplishing this task.
+  
+![r1](https://github.com/user-attachments/assets/080c6bd7-b0fc-4ce1-bb3d-073a561dcc15)
+
+# Task : Created an interactive Choropleth map : 
++ Using Plotly Express, visualizing the geographical distribution of EVs across regions. The power of data visualization never ceases to amaze!.
+
+![map](https://github.com/user-attachments/assets/e0e454da-f7e5-49ca-b03b-68ccc7436ee2)
