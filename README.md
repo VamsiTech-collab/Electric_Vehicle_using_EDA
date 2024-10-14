@@ -48,3 +48,15 @@
 + Using Plotly Express, visualizing the geographical distribution of EVs across regions. The power of data visualization never ceases to amaze!.
 
 ![map](https://github.com/user-attachments/assets/e0e454da-f7e5-49ca-b03b-68ccc7436ee2)
+
+# CONCLUSION FROM THE ANALYSIS : 
+1. Electric Range Distribution :
+   + The Analysis of electric ranges shows most Vehicles fall with in a typical range , with a few outliers having very high or low Ranges.
+   + This may indicate a standarization of battery capacities in the market .
+2. Legislative Districts :
+   + The spread of Vehicles across various legislative districts suggests areas where infrastructure for electric vehicles (like charging) might need to be improved or is already well-established
+
+# Over All Analysis : 
++ This Analysis highlights key trends in the electric vehicles , in terms of performance (electric range).
++ The Visualizations , particually the bar chart race , provide a dynamic view of how manufactures are completing over time , while the histograms give a deeper understanding of the data distribution.
++ This Information can be used by policymakers and manufactures to targetareas for improvement , such as increasing the electric vehicle range or expanding infrastructures in underserved locations .
